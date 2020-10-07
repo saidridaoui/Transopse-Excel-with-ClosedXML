@@ -5,7 +5,7 @@
 
 # Please run the file Program.cs in order to Transpose The Excel Testdatei.xlsx (the file path exist in ExcelManipulation\file_path\Testdatei.xlsx)
 
-# The Program.cs is well documented with to let anybody understand the logic behind the Program.
+# The Program.cs is well documented to let anybody understand the logic behind the Program.
 
 # For using this Program, you need to install tClosedXML package.
 
