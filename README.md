@@ -7,7 +7,7 @@
 
 # The Program.cs is well documented to let anybody understand the logic behind the Program.
 
-# For using this Program, you need to install tClosedXML package.
+# For using this Program, you need to install ClosedXML package.
 
 # Run this Cmd in PM> Install-Package ClosedXML 
 
