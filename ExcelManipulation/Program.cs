@@ -1,18 +1,14 @@
 ﻿// Created By Said Ridaoui
 
-namespace ExcelManipulation
-{
+namespace ExcelManipulation{  
+    
     using ClosedXML.Excel;
     using System;
     using System.Collections.Generic;
     using System.Data;
     using System.IO;
     using System.IO.Packaging;
-    using System.Linq;
-    using System.Net.WebSockets;
-    using System.Reflection;
-    using System.Text;  
-    using System.Threading.Tasks;
+    using System.Linq; 
     using System.Windows.Forms;
 
     /// <summary>
