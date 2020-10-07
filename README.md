@@ -1,12 +1,24 @@
 # Transopse Excel with ClosedXML
 
-C# Application to Transopse Excel with ClosedXML Framework.
+################### C# Application to Transopse Excel with ClosedXML Framework. ##################
 
-please run the file Program.cs in order to Transpose The Excel Testdatei.xlsx (the file path exist in ExcelManipulation\file_path\Testdatei.xlsx)
-the Program.cs is well documented with the Packaging library to let anybody understand the logic behind the Program.
 
-Tools Used :
+# Please run the file Program.cs in order to Transpose The Excel Testdatei.xlsx (the file path exist in ExcelManipulation\file_path\Testdatei.xlsx)
+
+# The Program.cs is well documented with to let anybody understand the logic behind the Program.
+
+# For using this Program, you need to install tClosedXML package.
+
+# Run this Cmd in PM> Install-Package ClosedXML 
+
+# Tools --> NuGet Package Manager --> Package Manager Console.
+
+PM> Install-Package ClosedXML
+
+
+
+# Tools Used :
 
 .Net Framework 4.7.2 / C# / ClosedXML Framework 0.95.3 / Microsoft Excel 2016 / Visual Studio 2019 
 
-By Said Ridaoui.
+# By Said Ridaoui.
