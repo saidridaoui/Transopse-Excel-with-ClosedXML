@@ -1,0 +1,16 @@
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\obj\Debug\ExcelManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\ExcelManipulation.exe.config
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\ExcelManipulation.exe
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\ExcelManipulation.pdb
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\obj\Debug\ExcelManipulation.exe
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\obj\Debug\ExcelManipulation.pdb
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\ClosedXML.dll
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\System.IO.Packaging.dll
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\ClosedXML.pdb
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\ClosedXML.xml
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\obj\Debug\ExcelManipulation.csprojAssemblyReference.cache
+C:\Users\Azrael\Desktop\c#_applications\ExcelManipulation\obj\Debug\ExcelManipulation.csproj.CopyComplete
